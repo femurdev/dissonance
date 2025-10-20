@@ -12,13 +12,15 @@
 ## Architecture
 1. **Frontend Web Interface**
    - Built with standard web technologies.
-   - Sends bell commands via a backend API.
-2. **Backend Server**
-   - Receives user actions.
-   - Sends control messages (e.g., MQTT, WebSocket, or HTTP) to remote bell nodes.
+   - Sends bell commands via a backend BLE API.
+2. **Backend Bells**
+   - Receives user actions over BLE.
+   - Sends control messages to all bell nodes.
+   - See image below:
+![Bell Connections](https://github.com/femurdev/dissonance/blob/main/softwareInteractionsv1.png?raw=true)
 3. **Bell Nodes (Hardware)**
-   - Each node controls a physical bell or actuator.
-   - Uses Wi-Fi or another wireless protocol.
+   - Each node controls a physical bell and actuator.
+   - Uses BLE protocol.
    - Receives and executes play commands.
 
 ## Setup
