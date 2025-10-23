@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **As the Bell Tolls**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/692).
-
-
 ## 10/18/2025 - Testing setups  
 
 ![IMG_3700.jpeg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--40b9b906afaafd063e25c7864aab2f3568703bc0/IMG_3700.jpeg)
@@ -55,4 +51,14 @@ Anyway, here's the full thing:
 
 ![Untitled drawing.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzYzNywicHVyIjoiYmxvYl9pZCJ9fQ==--f7d9391f996f76d846205bf10d7ed486968c2fdd/Untitled%20drawing.png)
 Here's the rest of this project's outline. I'll be able to send more about this project once I get it approved. I hope this conveys the level of complexity within this project, as offsets must be accounted for and timings must be precise for the music to sound correct. Furthermore, I already bought the bells, which were 60 bucks alone. I intend to hook this up to a song machine with AI or MIDI input on a website which I will develop once this project is approved.  
+
+## 10/23/2025 - Circuitboard CAD Assembly  
+
+![Screenshot 2025-10-23 at 5.56.00 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--68552654a426beb5bba0e79d80e7ab3937eff685/Screenshot%202025-10-23%20at%205.56.00%E2%80%AFPM.png)
+
+I designed a full assembly view for the bells now. I don't know how to do wires yet, so let me know if that level of an assembly view is required. Likewise, I learned why assemblies were important, because I almost ordered 2x the JH connectors. (MB) Definitely something I'll carry with me.
+Secondly, I changed a major component (the 5v regulator) for a cheaper version. Hoping for some funding for this project, as I'm really getting excited about this now. I'll be back with a code + Full CAD update later.
+
+P.S. Don't laugh, I had to teach myself Onshape Assembly studios to do this correctly! It was haphazardly placing parts in kind of the right place before.
+  
 
