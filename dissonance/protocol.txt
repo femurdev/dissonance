@@ -1,0 +1,25 @@
+1) Architecture & workflow
+
+C3 (Host)
+
+Acts as Wi-Fi access point (or station on same network) that the other ESP32s and PC join.
+
+Runs a small TCP server so the PC can reliably send schedules/commands.
+
+Broadcasts periodic TIME beacons via UDP and rebroadcasts the PC’s PLAY note <target_unix_time> commands to all ESPs via UDP.
+
+Other ESP32s (D4, E4, F4, G4, A4, B4, C5)
+
+Join C3’s network as stations.
+
+Listen on UDP port for both TIME beacons and PLAY messages.
+
+Maintain a local clock offset (host_time − local_time) using incoming TIME beacons and smoothing.
+
+When a PLAY command arrives containing a future absolute unix timestamp, schedule playback locally at that absolute time (local_time + offset).
+
+PC (Conductor)
+
+Connects to C3 via TCP, sends PLAY commands with target_time = now + schedule_ahead (e.g., 300–700 ms).
+
+Use TCP so commands are received reliably by C3; C3 then broadcasts UDP to all nodes simultaneously.
