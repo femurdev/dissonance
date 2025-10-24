@@ -37,7 +37,7 @@ After much deliberation, I created an initial parts list. Unfortunately, this pa
 
 ![Screenshot 2025-10-19 at 12.25.33 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQwMywicHVyIjoiYmxvYl9pZCJ9fQ==--13c95a8272327b2cf21b01e1506be6c8d58c5918/Screenshot%202025-10-19%20at%2012.25.33%E2%80%AFPM.png)
 
-I measured and designed the inner bell clip, yet to fabricate, but I think it's looking good so far. Dependent on the bells you use, this may be different. My bells have a flat sop at the top that many others may not have. There's a bit of string required at the top too.
+I measured and designed the inner bell clip, yet to fabricate, but I think it's looking good so far. Dependent on the bells you use, this may be different. My bells have a flat sop at the top that many others may not have. There's a bit of string required at the top too. This is like version 4 at this point, which is why it took an hour.
   
 
 ## 10/19/2025 10:43 PM - Rest of Build Design  
