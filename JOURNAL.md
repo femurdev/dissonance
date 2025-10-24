@@ -67,3 +67,11 @@ P.S. Don't laugh, I had to teach myself Onshape Assembly studios to do this corr
 ![Screenshot 2025-10-23 at 6.16.26 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDkyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--8f9cc0f11899853b41507cd46dc5b0b995130e19/Screenshot%202025-10-23%20at%206.16.26%E2%80%AFPM.png)
 I made my full cad model. I'm putting it up on GitHub for now, but I may rework it at some point later down the road to be in a handle shape. For now, here it is. I swear this process went 100x quicker because I knew what I was doing. It's fun now so I'll keep doing it.  
 
+## 10/24/2025 - Tried Bluetooth  
+
+![Screenshot 2025-10-24 at 6.45.59 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--f727137fdb6b1e140a096a2885f5853dcddb547e/Screenshot%202025-10-24%20at%206.45.59%E2%80%AFAM.png)
+I tried to code this in Bluetooth, but everything kept on breaking. I'm thinking that I'll use Wi-Fi now due to the low latency. Not only that, but I did come up with a cool way to program the notes for now. That's really it, this one was a fail. More when I get my homework done.
+
+
+  
+
