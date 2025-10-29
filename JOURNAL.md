@@ -83,3 +83,10 @@ _There's gonna be so much soldering. (to save money ofc)_
 ### 😰
 ![Screenshot 2025-10-24 at 6.50.12 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--7a79bd8fe452280f959e2b0a425e179d6399284e/Screenshot%202025-10-24%20at%206.50.12%E2%80%AFAM.png)  
 
+## 10/29/2025 - Learning Kicad  
+
+I'm making a PCB for this project to help decrease costs. I have to say, it's like pipes/snake but still extremely challenging. I'm looking forward to producing it even though it is completely new to me.
+I watched like 4 tutorials on KiCad and put together a battery-powered light for now. This is confusing at first
+![Screenshot 2025-10-29 at 8.09.21 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ4NywicHVyIjoiYmxvYl9pZCJ9fQ==--2ad1f0707b4d605a99023f0d73950489db14c142/Screenshot%202025-10-29%20at%208.09.21%E2%80%AFAM.png)
+  
+
